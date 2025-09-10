@@ -5,6 +5,7 @@ Beam Former:
 - MVDR
 - MSINR
 - MMSE
+
 The received signal **x(k)** is generated according to the following formula:
 
 $$\mathbf{x}(k) = \mathbf{a}(\theta_0)s_p(k) + \mathbf{a}(\theta_1)s_1(k) + \mathbf{a}(\theta_2)s_2(k) + \mathbf{n}(k), \quad k=1,\dots,10^4$$
